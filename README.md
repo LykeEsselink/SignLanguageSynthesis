@@ -16,7 +16,9 @@ This program was developed and tested using Python 3.6.1 on Ubuntu 16.04.6.
 <li><i>sendsigml.py</i><br>Sends SiGML files to the avatar<br></li>
 <li><i>dictFile.py</i><br>Contains the dictionary of encoded NGT signs available to the avtatar<br></li>
 <li><i>HamNoSysDict.py</i><br>Contains a dictionary of all known HamNoSys notations and their respectve categories<br></li>
-<li><i>SiGML-Player.AppImage</i><br>Contains the JASigning avatar<br></li>
+<li><i>SiGML-Player.AppImage</i><br>Contains the JASigning avatar for linux<br></li>
+<li><i>SiGML-Player.app/i><br>Contains the JASigning avatar for OSX<br></li>
+<li><i>SiGML-Player.exe</i><br>Contains the JASigning avatar for windows<br></li>
 </ul>
 
 The program can be used by making a call to main.py with a glossed NGT sentence. The JASigning avatar will sign the sentence in NGT
